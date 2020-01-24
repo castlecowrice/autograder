@@ -1,0 +1,6 @@
+[path]
+testdir_base =
+testdir_folder =
+exedir =
+in_ext = in
+out_ext = out
